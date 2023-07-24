@@ -1,0 +1,13 @@
+0 date > hw.txt
+   1 df
+   2 df -h
+   3 df /
+   4 df -h
+   5 df -h /
+   6 df -h / >> hw.txt 
+   7 cat hw.txt
+   8 history | tail -5 >> hw.txt 
+   9 grep 'vendor' /proc/cpuinfo >> hw.txt 
+  10 nano hw.txt 
+  11 ps -ef | wc -l | tail -1 >> hw.txt
+  12 history > history_linux_homework_2.txt
